@@ -195,3 +195,5 @@ POST /api/telegramnotifications/fichaje-invalido
 Este proyecto ha sido creado por **Jason Caballero (whoamijas0n)**.
 
 Distribuido bajo la licencia **GNU General Public License v3.0**.  
+Consulta el archivo `LICENSE` para más detalles.
+
